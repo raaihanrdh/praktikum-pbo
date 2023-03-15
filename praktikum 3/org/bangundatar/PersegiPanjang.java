@@ -1,6 +1,6 @@
 /**
  * File         : PersegiPanjang.java 08/03/2023
- * Penulis      : Fikri Prasetya Nurhidayat
+ * Penulis      : Muhammad Raihan Ridho
  * Deskripsi    : Representasi dari objek persegi panjang, turunan kelas poligon
  */
  
