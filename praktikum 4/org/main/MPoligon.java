@@ -1,7 +1,6 @@
 /**
 * MPoligon.java 20/03/2023
-* Nama      : Derva Anargya Ghaly
-* NIM       : 24060121140149
+* Nama      : Muhammad Raihan Ridho
 * Deskripsi : driver class untuk poligon dan persegi panjang
 */
 
