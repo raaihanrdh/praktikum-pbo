@@ -1,7 +1,6 @@
 /**
 * MKubus.java 20/03/2023
-* Nama      : Derva Anargya Ghaly
-* NIM       : 24060121140149
+* Nama      : Muhammad Raihan Ridho
 * Deskripsi : Kelas yang berisi program untuk menjalankan kelas Kubus.
 */
 
