@@ -1,7 +1,7 @@
 /*
 * BangunDatar.java 27 Maret 2023
-* Nama         : Derva Anargya Ghaly
-* NIM          : 24060121140149
+* Nama         : Muhammad Raihan Ridho 
+* NIM          : 24060121140131
 * Deskripsi    : File abstract class bangun datar
 */
 
