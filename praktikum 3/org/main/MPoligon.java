@@ -1,6 +1,6 @@
 /**
  * File         : MPoligon.java 08/03/2023
- * Penulis      : Fikri Prasetya Nurhidayat
+ * Penulis      : Muhammad Raiha Ridho
  * Deskripsi    : Driver class untuk poligon dan persegi panjang
  */
 
